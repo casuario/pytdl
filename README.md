@@ -15,7 +15,7 @@ For progressive and audio only streams ffmpeg is not needed.
 
 Only tested in windows 10
 
-Despite being python 3.8, it works fine with auto py to exe  
+it works fine with auto py to exe  
 (not with the one file option as it cannot find the images in the resources folder)
 
 TODO:
