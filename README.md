@@ -3,8 +3,7 @@ simple tkinter ui for pytube
 
 this is mainly for learning purposes
 
-it uses tkinter and ttkthemes for the GUI and  pytube (currently this version, as it is the most updated   
-and error-free i've found: https://github.com/H4KKR/pytubeX)
+it uses tkinter and ttkthemes for the GUI and pytube 
 
 In order to download adaptive videos (DASH) the user needs to have installed ffmpeg  
 (and in windows declared in the path environment variable)  
